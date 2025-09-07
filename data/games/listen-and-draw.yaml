@@ -1,0 +1,23 @@
+id: listen-and-draw
+type: game
+title: Слушай и рисуй
+topic: school
+audience: kid
+age_min: 7
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: внимание и следование инструкциям
+steps:
+- Один описывает предмет, другой рисует по описанию.
+- Меняйтесь ролями.
+- Сравните описание и рисунок, обсудите различия.
+reflection:
+- Что помогало слушать внимательно?
+- Как давать понятные инструкции?
+tags:
+- school
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

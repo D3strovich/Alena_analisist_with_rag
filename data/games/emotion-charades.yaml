@@ -1,0 +1,23 @@
+id: emotion-charades
+type: game
+title: Угадай эмоцию
+topic: emotions
+audience: kid
+age_min: 6
+age_max: 11
+duration: 5–10 мин
+tone: kid
+goal: распознавание эмоций
+steps:
+- Объясни правила простыми словами.
+- Покажи мимику/опиши ситуацию — ребёнок угадывает эмоцию.
+- Поменяйтесь ролями.
+reflection:
+- Когда ты так себя чувствовал(а)?
+- Что помогает, когда так себя чувствуешь?
+tags:
+- emotions
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

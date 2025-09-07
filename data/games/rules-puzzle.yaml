@@ -1,0 +1,23 @@
+id: rules-puzzle
+type: game
+title: Пазл правил
+topic: family
+audience: kid
+age_min: 7
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: понимание правил дома
+steps:
+- Составьте вместе 3–5 простых правила для спокойного вечера.
+- Обсудите, почему каждое правило важно.
+- Договоритесь, кто что делает.
+reflection:
+- Какое правило помогает больше всего?
+- Что поменять в следующий раз?
+tags:
+- family
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

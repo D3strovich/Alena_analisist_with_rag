@@ -1,0 +1,23 @@
+id: kind-words
+type: game
+title: Тёплые слова
+topic: peers
+audience: kid
+age_min: 7
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: эмпатия и поддержка
+steps:
+- По очереди говорите друг другу добрые фразы.
+- Запоминайте, какие слова особенно нравятся.
+- Соберите список «слов-помощников».
+reflection:
+- Какие слова поддерживают лучше всего?
+- Когда их стоит использовать?
+tags:
+- peers
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

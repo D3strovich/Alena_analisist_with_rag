@@ -1,0 +1,23 @@
+id: memory-route
+type: game
+title: Маршрут памяти
+topic: school
+audience: kid
+age_min: 8
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: память и последовательность
+steps:
+- Придумайте маршрут (дом → школа → парк).
+- Запомните 5–7 пунктов и расскажите порядок.
+- Добавьте детали и повторите.
+reflection:
+- Какие способы помогали запомнить?
+- Сколько пунктов получается держать в уме?
+tags:
+- school
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

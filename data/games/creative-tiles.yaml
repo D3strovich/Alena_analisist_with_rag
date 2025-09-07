@@ -1,0 +1,23 @@
+id: creative-tiles
+type: game
+title: Творческие плитки
+topic: interests
+audience: kid
+age_min: 7
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: креативность и сотрудничество
+steps:
+- 'Вымышленные «плитки» (слова/картинки): соберите историю.'
+- Каждый добавляет 1 деталь.
+- Придумайте добрый финал.
+reflection:
+- Какие идеи понравились?
+- Как работать в команде?
+tags:
+- interests
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

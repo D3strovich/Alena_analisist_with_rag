@@ -1,0 +1,23 @@
+id: choice-tree
+type: game
+title: Дерево выбора
+topic: peers
+audience: kid
+age_min: 8
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: принятие решений в дружбе
+steps:
+- Возьмите ситуацию (недопонимание).
+- Придумайте 2–3 варианта действий и последствия.
+- Выберите доброжелательный вариант.
+reflection:
+- Что помогло сделать выбор?
+- Какие последствия понравились больше?
+tags:
+- peers
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

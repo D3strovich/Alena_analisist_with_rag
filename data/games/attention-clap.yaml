@@ -1,0 +1,23 @@
+id: attention-clap
+type: game
+title: Слушай и хлопай
+topic: habits
+audience: kid
+age_min: 6
+age_max: 10
+duration: 5–10 мин
+tone: kid
+goal: внимание и самоконтроль
+steps:
+- Ведущий читает цепочку слов.
+- Хлопок только если услышишь цвет/животное (выберите правило).
+- Постепенно усложняйте.
+reflection:
+- Что помогало не отвлекаться?
+- Как сделать игру сложнее?
+tags:
+- habits
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

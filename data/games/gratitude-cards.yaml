@@ -1,0 +1,23 @@
+id: gratitude-cards
+type: game
+title: Карточки благодарности
+topic: emotions
+audience: kid
+age_min: 7
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: развитие благодарности
+steps:
+- Запишите по одной благодарности на карточку.
+- Обменяйтесь карточками и прочитайте вслух.
+- Сохраните карточки в «банку добрых дел».
+reflection:
+- Что нового заметил(а) сегодня?
+- Как меняется настроение после игры?
+tags:
+- emotions
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

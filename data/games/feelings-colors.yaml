@@ -1,0 +1,23 @@
+id: feelings-colors
+type: game
+title: Цвета чувств
+topic: emotions
+audience: kid
+age_min: 6
+age_max: 10
+duration: 5–10 мин
+tone: kid
+goal: распознавание эмоций и саморегуляция
+steps:
+- Выберите цвет к настроению (радость, грусть, спокойствие и т. д.).
+- Расскажите, когда вы так себя чувствовали.
+- Предложите простую технику поддержки (дыхание, перерыв).
+reflection:
+- Какой цвет чаще сегодня?
+- Что помогает менять настроение?
+tags:
+- emotions
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

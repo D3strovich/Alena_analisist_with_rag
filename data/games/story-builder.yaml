@@ -1,0 +1,23 @@
+id: story-builder
+type: game
+title: Строители истории
+topic: interests
+audience: kid
+age_min: 7
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: развитие креативности и речи
+steps:
+- Выберите героя из интересов ребёнка.
+- По очереди добавляйте 1–2 предложения.
+- Добавляйте добрые решения в сложных ситуациях.
+reflection:
+- Что было самым интересным в истории?
+- Чему научился(ась) герой?
+tags:
+- interests
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'

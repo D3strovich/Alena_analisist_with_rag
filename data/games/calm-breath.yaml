@@ -1,0 +1,23 @@
+id: calm-breath
+type: game
+title: Спокойное дыхание 4–4–4
+topic: emotions
+audience: kid
+age_min: 6
+age_max: 12
+duration: 5–10 мин
+tone: kid
+goal: саморегуляция дыханием
+steps:
+- Вдох на 4, держим 4, выдох на 4.
+- Повторяем 4 раза, наблюдаем за телом.
+- Обсуждаем ощущения.
+reflection:
+- Как изменилось самочувствие?
+- Когда стоит применять?
+tags:
+- emotions
+- game
+lang: ru
+source: synthetic
+date: '2025-08-17'
